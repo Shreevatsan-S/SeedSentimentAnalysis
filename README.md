@@ -62,7 +62,7 @@ cd SeedSentimentAnalysis
 pip install -r requirements.txt
 ```
 
-### 3. Run preprocessing (modify script name if needed)
+### 3. Run preprocessing
 
 ```bash
 python codes/preprocess_reviews.py

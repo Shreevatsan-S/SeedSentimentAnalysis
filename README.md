@@ -24,74 +24,12 @@ This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and You
 
 ---
 
-## 🧰 Technologies & Tools
+## 📂 Repository Structure
 
-- **Python**  
-- **Pandas, NumPy, Scikit-learn**  
-- **BERT, DistilBERT (HuggingFace)**  
-- **Matplotlib, Seaborn, WordCloud**  
-- **Tableau (for dashboards)**  
-- **Jupyter Notebook**  
-- **MySQL / MongoDB**  
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Shreevatsan-S/SeedSentimentAnalysis.git
-cd SeedSentimentAnalysis
-2. Install dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3. Run preprocessing (edit script name if needed)
-bash
-Copy code
-python codes/preprocess_reviews.py
-4. Run analysis / training
-bash
-Copy code
-python codes/run_analysis.py
-5. View results
-All visualizations are stored in:
-
-Copy code
-Plots/
-BI_plots/
-📊 Example Outputs
-Sentiment distribution charts
-
-Word clouds for positive/negative reviews
-
-Bigram & trigram visualizations
-
-Cluster dendrograms
-
-PCA/t-SNE review grouping
-
-Product-wise & platform-wise sentiment comparisons
-
-🎯 Business Applications
-Identify product quality issues (e.g., sesame seeds receiving more negatives)
-
-Compare sentiment across platforms (Amazon vs Flipkart vs BigBasket)
-
-Detect customer concerns about freshness, packaging, or delivery
-
-Support decision-making for product improvement and marketing strategy
-
-📝 Future Enhancements
-Larger dataset covering more seed types & platforms
-
-Automated scraping pipeline
-
-Aspect-based sentiment analysis (taste, freshness, packaging)
-
-Interactive dashboards using Streamlit / Power BI
-
-Support for multilingual review analysis
-
-📄 License
-This project is under the MIT License.
+```plaintext
+/
+├── DataSet/          # Raw and cleaned datasets
+├── codes/            # Scripts for preprocessing, labeling, modeling, and analysis
+├── Plots/            # Analytical visualizations (EDA, clusters, heatmaps, etc.)
+├── BI_plots/         # Business-intelligence dashboards and summarized charts
+└── README.md         # Project documentation

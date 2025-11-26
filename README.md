@@ -24,20 +24,6 @@ This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and You
 
 ---
 
-## 📂 Repository Structure
-
-/ (root)
-|-- DataSet/ # Raw and cleaned datasets
-|-- codes/ # Scripts for preprocessing, labeling, modeling, and analysis
-|-- Plots/ # Analytical visualizations (EDA, clusters, heatmaps, etc.)
-|-- BI_plots/ # Business-intelligence dashboards and summarized charts
-|-- README.md # Project documentation
-
-yaml
-Copy code
-
----
-
 ## 🧰 Technologies & Tools
 
 - **Python**  

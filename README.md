@@ -6,7 +6,7 @@ Sentiment analysis of edible-seed reviews collected from Indian e-commerce platf
 
 ## 📄 Overview
 
-This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and YouTube to understand sentiment trends related to edible seeds.It includes data preprocessing, exploratory analysis, machine learning classification models (e.g., Logistic Regression, SVM, Random Forest, XGBoost), and transformer-based NLP (BERT / DistilBERT) to extract insights from customer review text. Visualizations such as word clouds, sentiment distribution charts, and clustering plots help illustrate patterns in product quality, customer satisfaction, and platform-wise sentiment differences.
+This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and YouTube to understand sentiment trends related to edible seeds.It includes data preprocessing, exploratory analysis, machine learning classification models  (Logistic Regression, SVM, Random Forest, XGBoost), and transformer-based NLP (BERT / DistilBERT) to extract insights from customer review text. Visualizations such as word clouds, sentiment distribution charts, and clustering plots help illustrate patterns in product quality, customer satisfaction, and platform-wise sentiment differences.
 
 ---
 

@@ -4,13 +4,13 @@ Sentiment analysis of edible-seed reviews collected from Indian e-commerce platf
 
 ---
 
-## 📄 Overview
+## Overview
 
 This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and YouTube to understand sentiment trends related to edible seeds.It includes data preprocessing, exploratory analysis, machine learning classification models  (Logistic Regression, SVM, Random Forest, XGBoost), and transformer-based NLP (BERT / DistilBERT) to extract insights from customer review text. Visualizations such as word clouds, sentiment distribution charts, and clustering plots help illustrate patterns in product quality, customer satisfaction, and platform-wise sentiment differences.
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
 - Aggregated review data from multiple Indian e-commerce platforms  
 - Manual sentiment labeling using structured annotation criteria (Positive / Neutral / Negative)  
@@ -23,7 +23,7 @@ This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and You
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 /
@@ -36,7 +36,7 @@ This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and You
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 - **Python**, **Jupyter Notebook**  
 - **Pandas**, **NumPy**, **Scikit-learn**  
@@ -47,7 +47,7 @@ This project analyzes customer reviews from Amazon, Flipkart, BigBasket, and You
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -85,7 +85,7 @@ BI_plots/
 
 ---
 
-## 📊 Example Outputs
+## Outputs
 
 - Sentiment distribution charts  
 - Word clouds  
@@ -96,7 +96,7 @@ BI_plots/
 
 ---
 
-## 🎯 Business Applications
+## Business Applications
 
 - Identify quality issues across seed types  
 - Compare sentiment across platforms (Amazon, Flipkart, BigBasket)  
@@ -106,7 +106,7 @@ BI_plots/
 
 ---
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 - Larger dataset with more platforms  
 - Automated scraping pipeline  
@@ -116,6 +116,6 @@ BI_plots/
 
 ---
 
-## 📄 License
+## License
 
 This project is under the **MIT License**.
